@@ -1,4 +1,4 @@
-# tugas-kuliah
+# tugas-kuliah DDP-1
 
 Repositori tugas mata kuliah DDP-1: dasar-dasar pemrograman dengan bahasa Python 3, seputar pemrograman secara umum. **Asisten dosen:** M. Faishol
 
