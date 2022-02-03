@@ -8,4 +8,6 @@ Repositori tugas kuliah saya. Tidak semua tugas diunggah. Silakan gunakan tanpa 
 
 - DDP-2: dasar-dasar pemrograman dengan Java, seputar pemrograman berbasis objek.
 
-- PBP: pemrograman berbasis platform, cakupannya adalah web dan mobile.
+- PBP: pemrograman berbasis platform, cakupannya adalah web dan mobile. Akses di [Gitlab](https://gitlab.com/hamonangan.nito)
+
+- SDA: ***coming soon***
