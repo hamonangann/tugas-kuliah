@@ -10,4 +10,4 @@ Repositori tugas kuliah saya. Tidak semua tugas diunggah. Silakan gunakan tanpa 
 
 - PBP: pemrograman berbasis platform, cakupannya adalah web dan mobile. Akses di [Gitlab](https://gitlab.com/hamonangan.nito)
 
-- SDA: ***coming soon***
+- Anum: program komputasi numerik dengan GNU Octave. Coming soon
