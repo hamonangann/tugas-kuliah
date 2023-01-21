@@ -14,6 +14,6 @@ Repositori tugas kuliah saya. Tidak semua tugas diunggah. Silakan gunakan tanpa 
 
 - Adpro: pemrograman lanjut (concurrency, design pattern, dkk). Tugas UAS dapat diakses di (Gitlab CSUI)[https://gitlab.cs.ui.ac.id/AdvProg/reguler-2022/student/kelas-c-blended/2006486084-Bornyto-Hamonangan/looking-for-player/looking-for-player] - saat ini belum bisa dibuka
 
-- Anum: program komputasi numerik dengan GNU Octave. Coming soon
+- Anum: program komputasi numerik dengan GNU Octave.
 
-- RPL: deployment at https://django-server-production-48b5.up.railway.app/. Development at https://github.com/hamonangann/jarkomolla
+- RPL: deployment at https://django-server-production-48b5.up.railway.app/ (inaktif). Development at https://github.com/hamonangann/jarkomolla
