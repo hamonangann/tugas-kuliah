@@ -17,3 +17,5 @@ Repositori tugas kuliah saya. Tidak semua tugas diunggah. Silakan gunakan tanpa 
 - Anum: program komputasi numerik dengan GNU Octave.
 
 - RPL: deployment at https://django-server-production-48b5.up.railway.app/ (inaktif). Development at https://github.com/hamonangann/jarkomolla
+
+- Jarkom: ada beberapa yang useful, yaitu simulasi Client-Server Architecture dengan socket programming.
