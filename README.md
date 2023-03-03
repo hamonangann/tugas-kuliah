@@ -19,3 +19,5 @@ Repositori tugas kuliah saya. Tidak semua tugas diunggah. Silakan gunakan tanpa 
 - RPL: deployment at https://django-server-production-48b5.up.railway.app/ (inaktif). Development at https://github.com/hamonangann/jarkomolla
 
 - Jarkom: ada beberapa yang useful, yaitu simulasi Client-Server Architecture dengan socket programming.
+
+- Sister: paper dengan format penulisan populer.
