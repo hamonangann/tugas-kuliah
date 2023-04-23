@@ -23,3 +23,5 @@ Repositori tugas kuliah saya. Tidak semua tugas diunggah. Silakan gunakan tanpa 
 - Sister: paper dengan format penulisan populer.
 
 - OS: banyak useful links, kunjungi [Github Page](https://hamonangann.github.io/os212/)
+
+- PPL: kunjungi templat proyek [PPL-Go](https://gitlab.cs.ui.ac.id/hamonanganN/ppl-go)
