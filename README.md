@@ -12,7 +12,7 @@ Repositori tugas kuliah saya. Tidak semua tugas diunggah. Silakan gunakan tanpa 
 
 - PBP: pemrograman berbasis platform (web). Tugas UTS dapat diakses di [Gitlab](https://gitlab.com/hamonangan.nito/uts-pbp-e03)
 
-- Adpro: pemrograman lanjut (concurrency, design pattern, dkk). Tugas UAS dapat diakses di [Gitlab CSUI](https://gitlab.cs.ui.ac.id/AdvProg/reguler-2022/student/kelas-c-blended/2006486084-Bornyto-Hamonangan/looking-for-player/looking-for-player) - saat ini belum bisa dibuka
+- Adpro: pemrograman lanjut (concurrency, design pattern, dkk). Tugas UAS dapat diakses di folder.
 
 - Anum: program komputasi numerik dengan GNU Octave.
 
