@@ -2,6 +2,10 @@
 
 Repositori tugas kuliah saya. Tidak semua tugas diunggah. Silakan gunakan tanpa perlu izin terlebih dahulu. Semoga bermanfaat!
 
+### Review mata kuliah:
+
+Untuk melihat review mata kuliah, kunjungi https://hamonangann.github.io/tugas-kuliah/review/
+
 ### List folder: 
 
 - DDP-1: dasar-dasar pemrograman dengan bahasa Python 3, seputar pemrograman secara umum.
