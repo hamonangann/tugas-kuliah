@@ -61,7 +61,7 @@ Tujuan ini ditulis adalah menampilkan sudut pandang saya, yang ketika ini dituli
 
   Tugas-tugasnya tidak jauh lebih susah dari DDP-1. Selepas saya belajar, ternyata baik Python maupun Java itu sangat luas, jadi DDP tidak akan mencakup semuanya. Kedua bahasa ini hanya studi kasus.
 
-  Support untuk mata kuliah ini kurang lebih sama dengan DDP 1. Tidak ada alasan untuk benci mata kuliah ini.
+  Support untuk mata kuliah ini kurang lebih sama dengan DDP 1. Rasanya tidak ada alasan untuk tidak suka mata kuliah ini.
 
 - Pengantar Organisasi Komputer (POK):
 
@@ -75,7 +75,7 @@ Tujuan ini ditulis adalah menampilkan sudut pandang saya, yang ketika ini dituli
 
   Lanjutan kalkulus 1 dengan variasi-variasi seperti integral tak wajar, koordinat polar, integral lipat dan sebagainya. Lanjutan dari Kalkulus 2 ini saya rasa adalah mata kuliah minat Persamaan Diferensial. Tapi sebagian materi Kalkulus 2 nantinya akan terpakai di mata kuliah matematis berikutnya.
 
-  Saya lupa banyak materi mata kuliah ini.
+  Saya lupa banyak materi mata kuliah ini. Biasanya yang jago di Kalkulus 1 akan jago di Kalkulus 2 juga.
 
 - Matematika Diskret 2 (MD 2):
 
@@ -84,3 +84,21 @@ Tujuan ini ditulis adalah menampilkan sudut pandang saya, yang ketika ini dituli
   Saya lebih menguasai materi MD 2 ini bahkan ketimbang Kalkulus 1, tapi rupanya banyak sekali mahasiswa Fasilkom yang sangat tajam analisisnya sehingga jago-jago dalam mengerjakan soal.
 
 ## Semester 3-7 (WIP)
+
+- Pemrograman Berbasis Platform
+
+  Kuliah pemrograman, lanjutan dari DDP. Fokusnya adalah membuat program pada platform tertentu, yaitu web dan cross-platform mobile. Waktu saya ambil, yang diajarkan adalah Django Python dan Flutter. Kita bisa lihat bahwa pemrograman di Fasilkom berpusat pada Python (dan rasanya lulusannya lumayan fasih memakai Python).
+
+  Awalnya matkul ini hanya tentang pemrograman web, tapi sekarang cakupannya diperluas. Mata kuliah ini dipenuhi pengajar (baik dosen dan asisten dosen) yang sangat niat dalam mempermudah pesertanya dengan membuat templat-templat berguna. Belum lagi di zaman saya ada Cloud PaaS gratisan yang terkenal bernama Heroku. Dengan demikian, peserta tidak begitu banyak ngurusin infrastruktur (setup OS dan web server) maupun boilerplate, yang penting appnya jadi dan bisa dideploy.
+
+  Buat saya mata kuliah ini cukup melelahkan dan saya tidak serius belajar Flutter-nya. Rasanya sampai ini ditulis saya belum sempat lagi mendalami Flutter (atau cross-platform lainnya seperti React Native). Saya bukan orang yang begitu suka ide cross-platform UI, lebih suka kalau aplikasi dikembangkan terpisah (misalnya GUI untuk PC, Android, dan iOS punya timnya masing-masing), tapi hal ini memang sangat menarik bagi startup dan web SaaS.
+
+  Tugasnya mata kuliah ini ya bikin aplikasi. Waktu saya ambil, UTS dan UAS nya berupa proyek
+
+  Sebagai catatan ada 2 istilah. SaaS artinya web service yang menjalankan suatu software, seperti Canva, Google Drive atau MS Word Web. PaaS artinya web service yang menjalankan suatu platform (biasanya berupa docker container) sehingga untuk deploy hanya perlu push kode aplikasi tanpa perlu setup OS.
+
+- Struktur Data dan Algoritma
+
+  Mata kuliah yang cukup sering terpakai, bukan hanya pada kuliah lanjutan, tapi juga pada interview masuk perusahaan. Topik yang dibahas adalah struktur data dan algoritma yang sudah lama dipakai. 
+
+WIP
