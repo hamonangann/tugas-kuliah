@@ -12,6 +12,17 @@ Ulasan ini berdasarkan suka tidak suka, jadi akan subjektif.
 
 Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa S1 tingkat akhir ketika ini ditulis.
 
+### Daftar Isi
+
+- [Semester 1](#semester-1)
+- [Semester 2](#semester-2)
+- [Semester 3](#semester-3)
+- [Semester 4](#semester-4)
+- [Semester 5](#semester-5)
+- [Semester 6](#semester-6)
+- [Semester 7](#semester-7)
+- [Semester 8](#semester-8)
+
 
 ### Semester 1
 
@@ -312,7 +323,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
 ### Semester 8:
 
-- **MITI** (Manajemen Infrastruktur Teknologi Informasi)
+- #**MITI** (Manajemen Infrastruktur Teknologi Informasi)
 
   **Kode Mata Kuliah**: CSIE604276
 
