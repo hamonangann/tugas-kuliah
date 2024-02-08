@@ -93,7 +93,11 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: DDP1
 
-  WIP
+  Materi ini adalah lanjutan dari DDP1 tapi punya fokus yang berbeda dari DDP1. Kali ini kita akan belajar tentang pemrograman berbasis objek (OOP), termasuk 4 pilar OOP dan penerapannya seperti abstract class dan interface. Bahasa yang dipakai adalah Java.
+
+  Tugas-tugasnya serupa dengan DDP1 dan kesulitannya tidak jauh berbeda, tapi waktu aku ambil, ada tugas membuat UML Class Diagram yang belum diajarkan. Artinya perlu eksplorasi sendiri (nantinya banyak tugas yang seperti ini juga). Pada setiap sesi lab ada asisten pengajar yang membantu juga.
+
+  Ujian dari DDP2 kurang lebih tipe soalnya mirip DDP1. Saya suka belajar bahasa pemrograman baru, jadi matkul ini memberikan pengalaman baru yang bagus.
 
 - **POK** (Pengantar Organisasi Komputer)
 
@@ -103,7 +107,12 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: PSD
 
-  WIP
+  Materi ini adalah lanjutan PSD dengan fokus pada komputer berjenis RISC (Apple M1, PlayStation, HP Android) dan CISC (Laptop Intel atau AMD). Kita akan belajar tentang perbedaan arsitektur x86 dngan AMD dan juga penerapannnya seperti MIPS dan AVR. 
+  
+  Tantangan terbesar dari mata kuliah ini adalah ngoding secara low-level. Jadi misalnya untuk membalik string 'ekans' menjadi 'snake', tidak akan ada fungsi bawaan semacam reverse(). Yang perlu kita lakukan adalah memanipulasi memori menggunakan pointer yang bergerak untuk menukar posisi setiap huruf sehingga kita bisa mereverse suatu string.
+
+  Mayoritas tugasnya adalah ngoding MIPS (pra-UTS) dan AVR (pasca-UTS) sedangkan format ujiannya mirip-mirip PSD. Ternyata hampir semua kuliah di Fasilkom berupa flipped learning jadi materi sebetulnya sudah diberikan sebelum kelas dimulai. Mata kuliah ini menarik secara high-level, tapi perlu usaha keras untuk ngoding tugas-tugasnya. Praktik ngoding secara low level ini sendiri jarang dieksplorasi kebanyakan orang (apalagi di zaman sekarang), tapi cara pemrograman benar-benar bekerja cukup menarik untuk dipelajari.
+
 
 - **Kalkulus 2**
 
@@ -113,7 +122,9 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: Kalkulus 1
 
-  WIP
+  Kalkulus 2 adalah lanjutan kalkulus 1 dengan variasi seperti integral lipat, koordinat polar, koordinat bola, dan endingnya adalah persamaan diferensial. Tugas-tugasnya mirip dengan kalkulus 1 (lebih banyak menjawab soal esai) tapi waktu aku ambil ada asistensi atau kuis (lupa antara dua itu) yang perlu diambil akhir pekan.
+
+  Ujiannya sendiri cukup susah, tapi nilai totalnya kalau tidak salah adalah 120 sehingga jika bisa menyelesaikan setengahnya saja, kita sudah di atas nilai minimum untuk lulus (55). Menurut saya, mata kuliah ini benar-benar memberikan landasan pengetahuan matematika yang nantinya beberapa kali terpakai di mata kuliah berikutnya.
 
 - **Matdis 2** (Matematika Diskret 2)
 
@@ -123,7 +134,9 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: -
 
-  WIP
+  Mata kuliah ini menurutku bukan lanjutan materi Matdis 1 (banyak materi baru), tapi masih seputar matematika diskret. Topik yang dibawakan sedikit lebih berat (misalnya tentang generating function) dari Matdis 1, tapi buatku masih lebih mudah daripada Kalkulus. Tantangannya cukup serupa, yaitu variasi soal yang beragam.
+
+  Tugas-tugas Matdis 2 tidak jauh berbeda secara format dengan Matdis 1, tapi ini juga bisa berbeda setiap dosen. Begitu juga dengan format ujiannya. Secara umum ilmu kuliah ini akan banyak terpakai di kuliah TBA dan sebagian SDA. Secara umum komputer juga bekerja dengan bilangan diskret.
 
 - **Statprob** (Statistika & Probabilitas)
 
@@ -133,7 +146,11 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: Matdis 1, Kalkulus 1
 
-  WIP
+  Ini adalah salah satu mata kuliah yang aku ambil lebih cepat dari rekomendasi (nyodok). Isinya seputar teori-teori statistika dan peluang secara umum. Nantinya ini sangat banyak terpakai di kuliah sains data.
+
+  Ujiannya salah satu yang paling sulit di Fasilkom dan membutuhkan cukup banyak persiapan. Selain itu bobot ujiannya juga cukup tinggi. Tugas-tugasnya seputar menjawab soal esai. Waktu saya ambil ini, tugas pertamanya adalah visualisasi data yang ujungnya menggunakan library Pandas pada Python (ini perlu eksplorasi sendiri).
+
+  Secara umum materi mata kuliah ini sangat menarik juga sekaligus sulit. Aku bersyukur bisa ambil ini di semester awal.
 
 
 ### Semester 3:
