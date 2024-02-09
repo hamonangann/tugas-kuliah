@@ -2,7 +2,7 @@
 permalink: /review/
 ---
 
-## Ulasan Mata Kuliah Ilmu Komputer Fasilkom UI
+# Ulasan Mata Kuliah Ilmu Komputer Fasilkom UI
 
 Disclaimer: Ulasan ini merupakan pendapat pribadi. Kalau mau lihat pendapat lain, bisa ke [UlasKelas](https://www.ulaskelas.id/en)-nya [RISTEK Open Source](https://oss.ristek.cs.ui.ac.id). Aku juga menulis di sana.
 
@@ -12,11 +12,25 @@ Ulasan ini berdasarkan suka tidak suka, jadi akan subjektif.
 
 Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa S1 tingkat akhir ketika ini ditulis.
 
-### Daftar Isi
+## Daftar Isi
 
 - [Semester 1](#semester-1)
+  - [Dasar-dasar Pemrograman 1](#ddp1-dasar-dasar-pemrograman-1)
+  - [Pengantar Sistem Digital](#psd-pengantar-sistem-digital)
+  - [Kalkulus 1](#kalkulus-1)
+  - [Matematika Diskret 1](#matdis-1-matematika-diskret-1)
 - [Semester 2](#semester-2)
+  - [Dasar-dasar Pemrograman 2](#ddp2-dasar-dasar-pemrograman-2)
+  - [Pengantar Organisasi Komputer](#pok-pengantar-organisasi-komputer)
+  - [Kalkulus 2](#kalkulus-2)
+  - [Matematika Diskret 2](#matdis-2-matematika-diskret-2)
+  - [Statistika & Probabilitas](#statprob-statistika--probabilitas)
 - [Semester 3](#semester-3)
+  - [Pemrograman Berbasis Platform](#pbp-pemrograman-berbasis-platform)
+  - [Sistem Operasi](#os-sistem-operasi)
+  - [Struktur Data & Algoritma](#sda-struktur-data--algoritma)
+  - [Aljabar Linear](#alin-aljabar-linear)
+  - [Metodologi Penelitian dan Penulisan Ilmiah](#mppi-metodologi-penelitian-dan-penulisan-ilmiah)
 - [Semester 4](#semester-4)
 - [Semester 5](#semester-5)
 - [Semester 6](#semester-6)
@@ -24,9 +38,9 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 - [Semester 8](#semester-8)
 
 
-### Semester 1
+## Semester 1
 
-- **DDP1** (Dasar-dasar Pemrograman 1):
+### **DDP1** (Dasar-dasar Pemrograman 1)
 
   **Kode Mata Kuliah**: CSGE601020
 
@@ -42,7 +56,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   Mata kuliah ini menyarankan buku ThinkPython tapi untuk memperbaiki tugas, rasanya jawaban di StackOverflow atau dokumentasi Python juga sangat membantu. Saran lainnya adalah buku Automate the Boring Stuff with Python yang juga aku sarankan untuk siapa saja yang mengoperasikan komputer sehari-hari (tidak harus programmer).
 
-- **PSD** (Pengantar Sistem Digital):
+### **PSD** (Pengantar Sistem Digital)
 
   **Kode Mata Kuliah**: CSCM601150
 
@@ -56,7 +70,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   Ujiannya berupa pilihan ganda. Walaupun begitu, beberapa soal seperti membaca K-Map butuh waktu yang cukup panjang. Sebagian konsep inti dari mata kuliah ini akan terpakai banyak (contohnya sistem bilangan biner, heksadesimal, dan gerbang logika) di mata kuliah semester berikutnya. 
 
-- **Kalkulus 1**:
+### **Kalkulus 1**
 
   **Kode Mata Kuliah**: CSGE601012
 
@@ -68,7 +82,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   Ikut kelas ini mungkin bisa membuat jantung berdebar jika ada pop-up quiz atau kuis dadakan. Meskipun begitu, sebagaimana mata kuliah lainnya di Fasilkom, rubrik penilaian mata kuliah ini dipaparkan dengan jelas dan transparan. Menurutku materi Kalkulus ini cukup sulit, jauh lebih sulit ketimbang SMA dan bahkan lebih sulit dari Matematika Diskret. Meskipun begitu, mata kuliah ini akan banyak terpakai nantinya seperti pada Analisis Numerik dan Statistika jadi sangat masuk akal diletakkan di awal kuliah.
 
-- **Matdis 1** (Matematika Diskret 1):
+### **Matdis 1** (Matematika Diskret 1)
 
   **Kode Mata Kuliah**: CSGE601010
 
@@ -83,9 +97,9 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   Salah satu sumber belajar legendaris untuk Matdis 1 adalah diktat Kombinatorika Prof. Bela, tentunya di samping buku teks. Buatku aku lebih mudah paham kuliah ini ketimbang Kalkulus, walaupun banyak teman yang menyatakan sebaliknya. 
 
   
-### Semester 2
+## Semester 2
 
-- **DDP2** (Dasar-dasar Pemrograman 2):
+### **DDP2** (Dasar-dasar Pemrograman 2)
 
   **Kode Mata Kuliah**: CSGE601021
 
@@ -97,9 +111,9 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   Tugas-tugasnya serupa dengan DDP1 dan kesulitannya tidak jauh berbeda, tapi waktu aku ambil, ada tugas membuat UML Class Diagram yang belum diajarkan. Artinya perlu eksplorasi sendiri (nantinya banyak tugas yang seperti ini juga). Pada setiap sesi lab ada asisten pengajar yang membantu juga.
 
-  Ujian dari DDP2 kurang lebih tipe soalnya mirip DDP1. Saya suka belajar bahasa pemrograman baru, jadi matkul ini memberikan pengalaman baru yang bagus.
+  Ujian dari DDP2 kurang lebih tipe soalnya mirip DDP1. Aku termasuk yang suka belajar bahasa pemrograman baru, jadi matkul ini memberikan pengalaman baru yang bagus.
 
-- **POK** (Pengantar Organisasi Komputer)
+### **POK** (Pengantar Organisasi Komputer)
 
   **Kode Mata Kuliah**: CSGE601021
 
@@ -114,7 +128,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   Mayoritas tugasnya adalah ngoding MIPS (pra-UTS) dan AVR (pasca-UTS) sedangkan format ujiannya mirip-mirip PSD. Ternyata hampir semua kuliah di Fasilkom berupa flipped learning jadi materi sebetulnya sudah diberikan sebelum kelas dimulai. Mata kuliah ini menarik secara high-level, tapi perlu usaha keras untuk ngoding tugas-tugasnya. Praktik ngoding secara low level ini sendiri jarang dieksplorasi kebanyakan orang (apalagi di zaman sekarang), tapi cara pemrograman benar-benar bekerja cukup menarik untuk dipelajari.
 
 
-- **Kalkulus 2**
+### **Kalkulus 2**
 
   **Kode Mata Kuliah**: CSCM601213
 
@@ -124,9 +138,9 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   Kalkulus 2 adalah lanjutan kalkulus 1 dengan variasi seperti integral lipat, koordinat polar, koordinat bola, dan endingnya adalah persamaan diferensial. Tugas-tugasnya mirip dengan kalkulus 1 (lebih banyak menjawab soal esai) tapi waktu aku ambil ada asistensi atau kuis (lupa antara dua itu) yang perlu diambil akhir pekan.
 
-  Ujiannya sendiri cukup susah, tapi nilai totalnya kalau tidak salah adalah 120 sehingga jika bisa menyelesaikan setengahnya saja, kita sudah di atas nilai minimum untuk lulus (55). Menurut saya, mata kuliah ini benar-benar memberikan landasan pengetahuan matematika yang nantinya beberapa kali terpakai di mata kuliah berikutnya.
+  Ujiannya sendiri cukup susah, tapi nilai totalnya kalau tidak salah adalah 120 sehingga jika bisa menyelesaikan setengahnya saja, kita sudah di atas nilai minimum untuk lulus (55). Menurutku, mata kuliah ini benar-benar memberikan landasan pengetahuan matematika yang nantinya beberapa kali terpakai di mata kuliah berikutnya.
 
-- **Matdis 2** (Matematika Diskret 2)
+### **Matdis 2** (Matematika Diskret 2)
 
   **Kode Mata Kuliah**: CSGE601011
 
@@ -138,7 +152,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   Tugas-tugas Matdis 2 tidak jauh berbeda secara format dengan Matdis 1, tapi ini juga bisa berbeda setiap dosen. Begitu juga dengan format ujiannya. Secara umum ilmu kuliah ini akan banyak terpakai di kuliah TBA dan sebagian SDA. Secara umum komputer juga bekerja dengan bilangan diskret.
 
-- **Statprob** (Statistika & Probabilitas)
+### **Statprob** (Statistika & Probabilitas)
 
   **Kode Mata Kuliah**: CSGE602013
 
@@ -148,14 +162,14 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   Ini adalah salah satu mata kuliah yang aku ambil lebih cepat dari rekomendasi (nyodok). Isinya seputar teori-teori statistika dan peluang secara umum. Nantinya ini sangat banyak terpakai di kuliah sains data.
 
-  Ujiannya salah satu yang paling sulit di Fasilkom dan membutuhkan cukup banyak persiapan. Selain itu bobot ujiannya juga cukup tinggi. Tugas-tugasnya seputar menjawab soal esai. Waktu saya ambil ini, tugas pertamanya adalah visualisasi data yang ujungnya menggunakan library Pandas pada Python (ini perlu eksplorasi sendiri).
+  Ujiannya salah satu yang paling sulit di Fasilkom dan membutuhkan cukup banyak persiapan. Selain itu bobot ujiannya juga cukup tinggi. Tugas-tugasnya seputar menjawab soal esai. Waktu aku ambil matkul ini, tugas pertamanya adalah visualisasi data yang ujungnya menggunakan library Pandas pada Python (ini perlu eksplorasi sendiri).
 
   Secara umum materi mata kuliah ini sangat menarik juga sekaligus sulit. Aku bersyukur bisa ambil ini di semester awal.
 
 
-### Semester 3:
+## Semester 3:
 
-- **PBP** (Pemrograman Berbasis Platform)
+### **PBP** (Pemrograman Berbasis Platform)
 
   **Kode Mata Kuliah**: CSGE602022
 
@@ -163,9 +177,13 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: DDP1
 
-  WIP
+  Matkul PBP ini dulunya hanya mencakup web, tapi sekarang berkembang menjadi multi platform. Selain web pages atau mobile pages, diajarkan juga sekilas tentang web services. Jadi mata kuliahnya mayoritas ngoding dan tiap minggu membuat web atau mobile app dengan kriteria tertentu.
 
-- **OS** (Sistem Operasi)
+  Terdapat tugas kelompok pengganti UTS dan UAS. Aku suka mempelajari framework Django (Python) yang praktis dan cukup siap pakai yang dipakai di kuliah ini. Menurutku ini teknologi yang bagus untuk membuat Proof of Concept dari suatu ide layanan atau aplikasi digital. Aku kurang begitu menekuni mobile appnya, tapi rupanya framework Flutter (Dart) yang dipakai bisa untuk multi-platform dan lumayan powerful.
+
+  Mulai dari matkul ini aku mulai berpikir bahwa dunia kampus bisa selangkah lebih maju ketimbang kebanyakan pelaku industri. Waktu matkul ini kuambil, Flutter belum seramai sekarang. Kini adaptasi Flutter semakin luas dan dipertimbangkan banyak perusahaan.
+
+### **OS** (Sistem Operasi)
 
   **Kode Mata Kuliah**: CSCM602055
 
@@ -173,9 +191,13 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: POK
 
-  WIP
+  Ini adalah salah satu mata kuliah yang aku minati. Sebetulnya kegiatan kelas OS ini cukup sederhana dan kebanyakan berupa mengikuti instruksi, tapi dari hal-hal kecil yang kulakukan, aku bisa lebih paham bagaimana sistem operasi dirancang dan bekerja. OS yang digunakan selama matkul ini adalah GNU/Linux, lebih tepatnya Debian GNU/Linux.
 
-- **SDA** (Struktur Data & Algoritma)
+  Tentu saja mata kuliah ini banyak berinteraksi dengan command line dan mesin virtual (supaya tidak membahayakan atau mengubah OS asli di komputer kita), dan bahkan tidak ada UTS dan UAS. Ini artinya di semester 3 aku tidak banyak ujian. Terdapat proses peer review yang aku cukup puas karena bisa membuat dan mengapresiasi artikel teman-teman sekelas tentang sistem operasi.
+
+  Kalau mempertimbangkan pekerjaan yang kuminati saat ini ditulis, rasanya mengetahui cara kerja OS sangat membantu mengetahui cara kerja jaringan dan aplikasi-aplikasi yang terhubung langsung dengan sistem operasi. Jadi matkul ini jelas banyak terpakai, terutama bagi yang minat infrastruktur IT.
+
+### **SDA** (Struktur Data & Algoritma)
 
   **Kode Mata Kuliah**: CSGE602040
 
@@ -183,9 +205,13 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: DDP1
 
-  WIP
+  SDA ini mata kuliah yang bisa jadi sangat familiar bagi yang sudah terbiasa lomba atau wawancara magang, tapi bisa jadi sangat baru bagi mahasiswa lainnya. Tidak heran jika tugas-tugasnya memiliki kesulitan yang tinggi. Rasanya tugas-tugas di matkul ini tidak dicopy-paste begitu saja dari buku teks atau internet, melainkan betul-betul dirancang oleh tim pengajar.
 
-- **Alin** (Aljabar Linear)
+  Di mata kuliah ini kita akan belajar struktur data yang umum (Array, LinkedList) maupun yang cukup canggih seperti AVL tree dan Binary Heap. Bahasa yang digunakan adalah Java, mengikuti DDP2. Tapi ada kelas yang membebaskan penggunaan bahasa. Tugas-tugas diperiksa secara otomatis menggunakan online judge dengan test case. Uniknya, para peserta juga membuat online judge dan test case tersendiri untuk membantu peserta lainnya dalam menyelesaikan tugas secara jujur. Tentu saja ketika online judge ini mengalami kendala atau downtime, ini bisa jadi merepotkan.
+
+  UTS dan UAS-nya tidak kalah sulit dari tugas. Walaupun lebih singkat dan sederhana, kalau tugas pemrograman dapat diselesaikan 1-2 minggu, soal ujian harus diselesaikan dalam 1-2 jam. Jadi jauh lebih menegangkan. Nantinya sebagian besar materi SDA akan diulang (dengan tambahan tentunya) pada matkul DAA. Selain itu, seperti yang sudah kusebutkan, materinya banyak keluar sebagai tes wawancara programmer.
+
+### **Alin** (Aljabar Linear)
 
   **Kode Mata Kuliah**: CSGE602012
 
@@ -193,9 +219,13 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: -
 
-  WIP
+  Matkul Alin ini adalah matkul matematika selanjutnya. Aku mengira ini akan membosankan, tapi rupanya ini sangat banyak dipakai dalam pengolahan citra maupun informasi. Jadi ini memang mata kuliah yang berhubungan erat dengan ilmu komputer. Pelajarannya seputar menyelesaikan sistem persamaan garis lurus, eigenvalue dan eigenvector, serta operasi matematika pada ruang vektor.
 
-- **MPPI** (Metodologi Penelitian dan Penulisan Ilmiah)
+  Sebetulnya ini cukup berbeda dengan Matdis atau Kalkulus karena di Alin ini jarang sekali ada soal hitungan! Kebanyakan soalnya adalah seputar analisis atau membedakan istilah-istilah dalam aljabar linear. Oleh karena itu, persiapan yang matang sangat dibutuhkan untuk menyelesaikan ujian dengan nilai yang memuaskan (ini yang tidak kulakukan). Selain itu, terdapat juga fun quiz yang dilakukan pada hari senja, jadi sangat rawan terlewat jika lengah.
+
+  Materi dan sumber belajar yang diberikan sangat memadai. Perlu diakui bahwa mata kuliah ini menjadi dasar dari bagaimana orang-orang menemukan algoritma dalam sains data atau temu balik informasi.
+
+### **MPPI** (Metodologi Penelitian dan Penulisan Ilmiah)
 
   **Kode Mata Kuliah**: CSGE602091
 
@@ -203,12 +233,17 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: -
 
-  WIP
+  Mata kuliah ini adalah semacam eksperimen yang menurut saya menarik karena diletakkan di semester awal. Ini belajar tentang cara menulis terutama untuk karya ilmiah. Selain itu, peserta juga diperkenalkan dengan cara-cara dan jenis-jenis penelitian. Secara garis besar ini menarik buatku karena aku berkesempatan mempelajari bagaimana keseharian para peneliti termasuk dosen di kampusku.
 
+  Tugas dari mata kuliah ini kebanyakan berupa menulis paper, termasuk berupa literature review. Tapi tentu tidak sebesar skripsi. Seingatku ketika aku ambil tidak ada UTS atau UAS matkul ini.
 
-### Semester 4:
+  Ini menarik ketika diletakkan di semester awal karena perbedaan pandangan pengajar. Beberapa pengajar yang kukenal merasa bahwa ini dicoba agar mahasiswa dapat terbiasa menulis pada mata kuliah selanjutnya, memungkinkan lebih banyak tugas membuat makalah atau paper (karena ini sudah jadi stereotip bahwa lulusan ilmu komputer kurang cakap menulis). Di sisi lain, ada juga yang beranggapan bahwa ini menyulitikan mahasiswa, karena membaca paper tentang komputer memerlukan pengetahuan teknis yang dicukupkan oleh matkul-matkul dasar di kampus (sehingga lebih cocok ditaruh di akhir.). 
+  
+  Matkul ini bisa jadi sangat berguna bagi siapapun yang ingin berkarir sebagai akademisi atau sekadar persiapan menulis laporan tugas akhir.
 
-- **Adpro** (Pemrograman Lanjut)
+## Semester 4:
+
+### **Adpro** (Pemrograman Lanjut)
 
   **Kode Mata Kuliah**: CSCM602223
 
@@ -218,7 +253,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   WIP
 
-- **Basdat** (Basis Data)
+### **Basdat** (Basis Data)
 
   **Kode Mata Kuliah**: CSGE602070
 
@@ -228,7 +263,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   WIP
 
-- **DAA** (Desain & Analisis Algoritma)
+### **DAA** (Desain & Analisis Algoritma)
 
   **Kode Mata Kuliah**: CSCM603142
 
@@ -238,7 +273,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   WIP
 
-- **TBA** (Teori Bahasa & Automata)
+### **TBA** (Teori Bahasa & Automata)
 
   **Kode Mata Kuliah**: CSCM602241
 
@@ -248,7 +283,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   WIP
 
-- **Sister** (Sistem Interaksi)
+### **Sister** (Sistem Interaksi)
 
   **Kode Mata Kuliah**: CSGE602024
 
@@ -259,9 +294,9 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   WIP
 
 
-### Semester 5:
+## Semester 5:
 
-- **RPL** (Rekayasa Perangkat Lunak)
+### **RPL** (Rekayasa Perangkat Lunak)
 
   **Kode Mata Kuliah**: CSCM603125
 
@@ -271,7 +306,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   WIP
 
-- **Jarkom** (Jaringan Komputer)
+### **Jarkom** (Jaringan Komputer)
 
   **Kode Mata Kuliah**: CSCM603154
 
@@ -281,7 +316,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   WIP
 
-- **Kasdad** (Kecerdasan Artifisial & Sains Data Dasar)
+### **Kasdad** (Kecerdasan Artifisial & Sains Data Dasar)
 
   **Kode Mata Kuliah**: CSGE603130
 
@@ -291,7 +326,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   WIP
 
-- **Anum** (Analisis Numerik)
+### **Anum** (Analisis Numerik)
 
   **Kode Mata Kuliah**: CSCM603117
 
@@ -301,7 +336,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   WIP
 
-- **Manbis** (Manajemen Bisnis)
+### **Manbis** (Manajemen Bisnis)
 
   **Kode Mata Kuliah**: CSIM601190
 
@@ -312,9 +347,9 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   WIP
 
 
-### Semester 6:
+## Semester 6:
 
-- **PPL** (Proyek Perangkat Lunak)
+### **PPL** (Proyek Perangkat Lunak)
 
   **Kode Mata Kuliah**: CSCM603228
 
@@ -325,9 +360,9 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   WIP
 
 
-### Semester 7:
+## Semester 7:
 
-- **IR** (Perolehan Informasi)
+### **IR** (Perolehan Informasi)
 
   **Kode Mata Kuliah**: CSCE604135
 
@@ -338,9 +373,9 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   WIP
 
 
-### Semester 8:
+## Semester 8:
 
-- #**MITI** (Manajemen Infrastruktur Teknologi Informasi)
+### **MITI** (Manajemen Infrastruktur Teknologi Informasi)
 
   **Kode Mata Kuliah**: CSIE604276
 
@@ -350,7 +385,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   WIP
 
-- **Komas** (Komputer & Masyarakat)
+### **Komas** (Komputer & Masyarakat)
 
   **Kode Mata Kuliah**: CSGE614093
 
@@ -361,7 +396,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   WIP
 
 
-- **TA** (Tugas Akhir)
+### **TA** (Tugas Akhir)
 
   **Kode Mata Kuliah**: CSGE604099
 
