@@ -48,6 +48,8 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: -
 
+  ![Test](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fqph.cf2.quoracdn.net%2Fmain-qimg-4472b6229cb75bf66ab531f3ebd4f975-lq&sp=1707472002Tdd2f3e152a69bd701f9b30397d593d01cb9c5a63f3a8a21360420616fbc6076c)
+
   Mata kuliah ini mengenalkan konsep dasar dari pemrograman, yaitu membuat komputer bekerja sesuai kemauan kita sebagai pemrogram. Konsep-konsep yang dimaksud adalah yang high level seperti tipe data, struktur data, fungsi, dan kelas. Selain itu diajarkan juga cara membuat program berbasis command line dan GUI (tampilan grafis). Aku suka bagaimana kelas ini bisa sangat suportif bagi mahasiswa baru yang bahkan belum pernah memrogram sama sekali. Bahasa pemrograman yang digunakan adalah Python, jadi sekalian belajar Python. Tapi fokus utamanya tetap di konsep.
 
   Tugas-tugasnya cukup banyak dan ada asisten pengajar yang sangat membantu. Mereka menyelipkan ulasan materi pada tugas lab walaupun sudah dijelaskan dosen di kelas. Lab ini sendiri sebutan lain adalah praktikum, jadi perlu menyiapkan komputer (laptop atau desktop) untuk mengerjakan tugasnya. Tentu saja kelas ini banyak ngodingnya. Bentuk tugasnya cukup straightforward, apa saja fitur yang perlu ada dijelaskan secara rinci, tapi hampir semuanya dijelaskan dengan kalimat narasi, bukan flowchart atau diagram. Jadi kadang tetap perlu minta klarifikasi ke pembuat soal.
