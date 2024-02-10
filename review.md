@@ -33,9 +33,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   - [Metodologi Penelitian dan Penulisan Ilmiah](#mppi-metodologi-penelitian-dan-penulisan-ilmiah)
 - [Semester 4](#semester-4)
 - [Semester 5](#semester-5)
-- [Semester 6](#semester-6)
-- [Semester 7](#semester-7)
-- [Semester 8](#semester-8)
+- [Semester 6-8](#semester-6-8)
 
 
 ## Semester 1
@@ -48,7 +46,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: -
 
-  ![Test](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fqph.cf2.quoracdn.net%2Fmain-qimg-4472b6229cb75bf66ab531f3ebd4f975-lq&sp=1707472002Tdd2f3e152a69bd701f9b30397d593d01cb9c5a63f3a8a21360420616fbc6076c)
+  ![Meme Python](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fqph.cf2.quoracdn.net%2Fmain-qimg-4472b6229cb75bf66ab531f3ebd4f975-lq&sp=1707472002Tdd2f3e152a69bd701f9b30397d593d01cb9c5a63f3a8a21360420616fbc6076c)
 
   Mata kuliah ini mengenalkan konsep dasar dari pemrograman, yaitu membuat komputer bekerja sesuai kemauan kita sebagai pemrogram. Konsep-konsep yang dimaksud adalah yang high level seperti tipe data, struktur data, fungsi, dan kelas. Selain itu diajarkan juga cara membuat program berbasis command line dan GUI (tampilan grafis). Aku suka bagaimana kelas ini bisa sangat suportif bagi mahasiswa baru yang bahkan belum pernah memrogram sama sekali. Bahasa pemrograman yang digunakan adalah Python, jadi sekalian belajar Python. Tapi fokus utamanya tetap di konsep.
 
@@ -349,7 +347,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   WIP
 
 
-## Semester 6:
+## Semester 6-8:
 
 ### **PPL** (Proyek Perangkat Lunak)
 
@@ -361,9 +359,6 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   WIP
 
-
-## Semester 7:
-
 ### **IR** (Perolehan Informasi)
 
   **Kode Mata Kuliah**: CSCE604135
@@ -373,9 +368,6 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   **Prasyarat**: SDA
 
   WIP
-
-
-## Semester 8:
 
 ### **MITI** (Manajemen Infrastruktur Teknologi Informasi)
 
