@@ -32,6 +32,11 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   - [Aljabar Linear](#alin-aljabar-linear)
   - [Metodologi Penelitian dan Penulisan Ilmiah](#mppi-metodologi-penelitian-dan-penulisan-ilmiah)
 - [Semester 4](#semester-4)
+  - [Pemrograman Lanjut](#adpro-pemrograman-lanjut)
+  - [Basis Data](#basdat-basis-data)
+  - [Desain & Analisis Algoritma](#daa-desain--analisis-algoritma)
+  - [Teori Bahasa & Automata](#tba-teori-bahasa--automata)
+  - [Sistem Interaksi](#sister-sistem-interaksi)
 - [Semester 5](#semester-5)
 - [Semester 6-8](#semester-6-8)
 
