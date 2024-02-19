@@ -251,7 +251,10 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: PBP, DDP2
 
-  WIP
+  Mata kuliah Pemrograman Lanjut ini seperti lanjutan DDP2 tapi sebetulnya cukup kental dengan unsur web, sehingga bisa dianggap lanjutan PBP juga. Terdapat juga eksplorasi dengan unit testing, clean code, microservices, dan observability. Ini sudah cukup advanced bagi seorang programmer, jadi setelah mata kuliah ini kemampuan pemrograman kita akan naik tingkat.
+
+  Seingat saya tidak ada UTS dan UAS Adpro tapi ada kuis dan juga tentunya tugas pemrograman. Tugasnya berbentuk story yang perlu ditafsirkan dengan asumsi yang tepat, sehingga menambah kompleksitas tugas. Terdapat tugas kelompok juga setelah UTS, di mana pengembangannya dilakukan secara iteratif dengan sprint. Sebetulnya produk akhirnya bisa berupa apa saja, bisa berupa web, mobile app, ataupun chatbot. Namun penggunaan bahasa pemrogramannya bisa saja ditentukan (pada saat aku ambil, menggunakan Spring).
+
 
 ### **Basdat** (Basis Data)
 
@@ -261,7 +264,11 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: DDP2
 
-  WIP
+  Basis Data adalah matkul yang cukup komprehensif membahas basis data, mulai dari sejarahnya (termasuk menggambar ERD) hingga hal-hal yang cukup canggih seperti indexing dan stored procedure. Terdapat juga materi tentang normalisasi database. Fokusnya adalah pada basis data relasional dan SQL.
+
+  Sekilas tugas mata kuliah ini tidak sulit, tapi kesulitannya terus bertambah ketika sudah masuk SQL. Pertanyaan tentang query yang tepat untuk memecahkan sebuah soal cerita di matkul bisa lebih sulit dari kebanyakan pertanyaan wawancara kerja. Ujiannya sendiri menguji pemahaman teori dan juga praktik SQL on paper.
+
+  Mata kuliah ini nantinya bakal jadi tumpuan untuk mata kuliah seperti proyek perangkat lunak (karena hampir pasti proyeknya pakai database) atau mata kuliah minat seperti Basis Data Lanjut.
 
 ### **DAA** (Desain & Analisis Algoritma)
 
@@ -271,7 +278,11 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: SDA
 
-  WIP
+  Mata kuliah ini bisa dibilang 90% mengulang apa yang dibahas di SDA dengan fokus ke variasi algoritmanya. Di matkul ini, goalnya adalah bukan saja bisa memakai algoritma yang tepat untuk menyelesaikan suatu masalah (seperti pada SDA), tapi juga menganalisis serta memodifikasi algoritma yang sudah ada supaya menjadi lebih tepat guna. Kira-kira begitulah.
+
+  Tugasnya lebih banyak pakai pseudocode atau Python, tidak ada kewajiban pakai Java atau diperiksa dengan grader. Terdapat cukup banyak tugas seperti Basdat, yaitu worksheet mingguan dan tugas individu. Beberapa kelas menugaskan studi literatur (bikin paper) secara berkelompok. Ujiannya sendiri tidak jauh berbeda dari SDA kecuali ekspektasi untuk memodifikasi algoritma tadi. Contoh soalnya begini: kita tahu bagaimana binary search bekerja, coba kembangkan ternary search.
+
+  Mata kuliah ini mematangkan pemahaman kita terkait analisis algoritma. Berikutnya, mungkin ada mata kuliah pilihan minat yang melibatkan teknik analisis algoritma. Di luar itu, tentu ini bermanfaat untuk persiapan interview dan sebagainya (termasuk jika berminat mengerjakan tugas akhir berupa analisis algoritma kriptografi, misalnya...).
 
 ### **TBA** (Teori Bahasa & Automata)
 
@@ -281,7 +292,11 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: Matdis 1, Matdis 2
 
-  WIP
+  Bukan "To Be Announced". Mata kuliah ini sebetulnya bicara banyak soal arsitektur komputer (surprise!) di atas kertas (secara konsep). Kita mempelajari konsep-konsep seperti Finite State Machine sampai Turing Machine. Secanggih apapun spek komputer kita, ia hanya bisa menyelesaikan masalah yang turing complete. Hal-hal tersebut memerlukan pemahaman bahasa formal (bukan bahasa natural seperti English, tapi bahasa formal) dan automata.
+
+  Tugas-tugasnya terekam dalam satu sistem bernama Aren yang legendaris. Menurutku, performa Aren ini sangat handal dan jarang down walaupun kita bisa beda pendapat soal bagaimana UI-nya. Submisi tugas (baik tugas simulasi JFlap atau tugas di atas kertas), peer review, maupun kalkulasi nilai terdapat pada sistem ini. Seingatku ujiannya lebih banyak membahas aspek matematis.
+
+  Pemahaman yang didapat dari mata kuliah ini bisa dibilang lebih ke untuk memahami cara kerja komputer secara abstrak ketimbang manfaat praktis di dunia industri. Saya sendiri suka mata kuliah ini walaupun sekalinya ketemu problem sulit bisa benar-benar kesulitan.
 
 ### **Sister** (Sistem Interaksi)
 
@@ -291,7 +306,11 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: PBP
 
-  WIP
+  Sistem Interaksi atau Human Computer Interaction adalah kelas yang membahas aspek psikologis dalam interaksi manusia sebagai pengguna dengan aplikasi/komputer. Tentu saja matkul ini akan mengajarkan prinsip-prinsip desain UI dan juga tugas mendesain UI.
+
+  Tugas-tugasnya dirancang bertahap dan bersambung. Yang kusuka dari kelas ini adalah rujukannya ke paper-paper terkini dan presentasinya yang betul-betul mudah dipahami dan splendid. Jadi, kelas ini sesuai ekspektasi. Di awal ada tugas membuat artikel tentang analisis UX.
+
+  Kelas ini seru dan teman yang jago desain atau Figma sangat-sangat berharga untuk menyelesaikan kuliah ini dengan apik.
 
 
 ## Semester 5:
