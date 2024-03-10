@@ -38,6 +38,11 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   - [Teori Bahasa & Automata](#tba-teori-bahasa--automata)
   - [Sistem Interaksi](#sister-sistem-interaksi)
 - [Semester 5](#semester-5)
+  - [Rekayasa Perangkat Lunak](#rpl-rekayasa-perangkat-lunak)
+  - [Jaringan Komputer](#jarkom-jaringan-komputer)
+  - [Kecerdasan Artifisial & Sains Data Dasar](#kasdad-kecerdasan-artifisial--sains-data-dasar)
+  - [Analisis Numerik](#anum-analisis-numerik)
+  - [Manajemen Bisnis](#manbis-manajemen-bisnis)
 - [Semester 6-8](#semester-6-8)
 
 
@@ -238,7 +243,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: -
 
-  Mata kuliah ini adalah semacam eksperimen yang menurut saya menarik karena diletakkan di semester awal. Ini belajar tentang cara menulis terutama untuk karya ilmiah. Selain itu, peserta juga diperkenalkan dengan cara-cara dan jenis-jenis penelitian. Secara garis besar ini menarik buatku karena aku berkesempatan mempelajari bagaimana keseharian para peneliti termasuk dosen di kampusku.
+  Mata kuliah ini adalah semacam eksperimen yang menurut aku menarik karena diletakkan di semester awal. Ini belajar tentang cara menulis terutama untuk karya ilmiah. Selain itu, peserta juga diperkenalkan dengan cara-cara dan jenis-jenis penelitian. Secara garis besar ini menarik buatku karena aku berkesempatan mempelajari bagaimana keseharian para peneliti termasuk dosen di kampusku.
 
   Tugas dari mata kuliah ini kebanyakan berupa menulis paper, termasuk berupa literature review. Tapi tentu tidak sebesar skripsi. Seingatku ketika aku ambil tidak ada UTS atau UAS matkul ini.
 
@@ -258,7 +263,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   Mata kuliah Pemrograman Lanjut ini seperti lanjutan DDP2 tapi sebetulnya cukup kental dengan unsur web, sehingga bisa dianggap lanjutan PBP juga. Terdapat juga eksplorasi dengan unit testing, clean code, microservices, dan observability. Ini sudah cukup advanced bagi seorang programmer, jadi setelah mata kuliah ini kemampuan pemrograman kita akan naik tingkat.
 
-  Seingat saya tidak ada UTS dan UAS Adpro tapi ada kuis dan juga tentunya tugas pemrograman. Tugasnya berbentuk story yang perlu ditafsirkan dengan asumsi yang tepat, sehingga menambah kompleksitas tugas. Terdapat tugas kelompok juga setelah UTS, di mana pengembangannya dilakukan secara iteratif dengan sprint. Sebetulnya produk akhirnya bisa berupa apa saja, bisa berupa web, mobile app, ataupun chatbot. Namun penggunaan bahasa pemrogramannya bisa saja ditentukan (pada saat aku ambil, menggunakan Spring).
+  Seingat aku tidak ada UTS dan UAS Adpro tapi ada kuis dan juga tentunya tugas pemrograman. Tugasnya berbentuk story yang perlu ditafsirkan dengan asumsi yang tepat, sehingga menambah kompleksitas tugas. Terdapat tugas kelompok juga setelah UTS, di mana pengembangannya dilakukan secara iteratif dengan sprint. Sebetulnya produk akhirnya bisa berupa apa saja, bisa berupa web, mobile app, ataupun chatbot. Namun penggunaan bahasa pemrogramannya bisa saja ditentukan (pada saat aku ambil, menggunakan Spring).
 
 
 ### **Basdat** (Basis Data)
@@ -301,7 +306,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   Tugas-tugasnya terekam dalam satu sistem bernama Aren yang legendaris. Menurutku, performa Aren ini sangat handal dan jarang down walaupun kita bisa beda pendapat soal bagaimana UI-nya. Submisi tugas (baik tugas simulasi JFlap atau tugas di atas kertas), peer review, maupun kalkulasi nilai terdapat pada sistem ini. Seingatku ujiannya lebih banyak membahas aspek matematis.
 
-  Pemahaman yang didapat dari mata kuliah ini bisa dibilang lebih ke untuk memahami cara kerja komputer secara abstrak ketimbang manfaat praktis di dunia industri. Saya sendiri suka mata kuliah ini walaupun sekalinya ketemu problem sulit bisa benar-benar kesulitan.
+  Pemahaman yang didapat dari mata kuliah ini bisa dibilang lebih ke untuk memahami cara kerja komputer secara abstrak ketimbang manfaat praktis di dunia industri. aku sendiri suka mata kuliah ini walaupun sekalinya ketemu problem sulit bisa benar-benar kesulitan.
 
 ### **Sister** (Sistem Interaksi)
 
@@ -315,7 +320,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   Tugas-tugasnya dirancang bertahap dan bersambung. Yang kusuka dari kelas ini adalah rujukannya ke paper-paper terkini dan presentasinya yang betul-betul mudah dipahami dan splendid. Jadi, kelas ini sesuai ekspektasi. Di awal ada tugas membuat artikel tentang analisis UX.
 
-  Kelas ini seru dan teman yang jago desain atau Figma sangat-sangat berharga untuk menyelesaikan kuliah ini dengan apik.
+  Kelas ini seru (tidak membosankan) dan kemampuan desain atau Figma sangat-sangat berharga untuk menyelesaikan kuliah ini dengan apik.
 
 
 ## Semester 5:
@@ -328,7 +333,11 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: DDP2
 
-  WIP
+  Mata kuliah ini fokusnya bukan ke pemrograman walaupun ujung-ujungnya memrogram juga. Materinya seputar SDLC (Daur Hidup Pengembangan Perangkat Lunak) dengan prinsip-prinsipnya seperti Waterfall dan Agile. Cukup banyak tugas membuat diagram (dan ternyata banyak sekali tool yang bisa secara praktis membuat diagram seperti draw.io dan PlantUML)!
+
+  Ujiannya seputar teori-teori pengembangan perangkat lunak (tidak seputar ngoding) tapi terdapat proyek kelompok yang diterapkan bertahap. Endingnya adalah membuat produk yang lulus uji (ekspektasinya lulus UAT saja, tidak perlu canggih-canggih, beda dengan Adpro, tapi ini artinya produknya harus dikembangkan dengan serius).
+
+  Mata kuliah ini tidak seseram namanya dan malah cukup santai. Cukup banyak kepingan ilmu dari mata kuliah ini yang terpakai sampai bekerja atau berproyek (pada mata kuliah selanjutnya).
 
 ### **Jarkom** (Jaringan Komputer)
 
@@ -338,7 +347,11 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: OS
 
-  WIP
+  Jaringan Komputer membahas tentang bagaimana komputer berkomunikasi dengan komputer lainnya. Pembahasan kuliah Jarkom waktu kuambil adalah TCP/IP layer model (maaf bagi tim OSI model karena Anda tidak begitu dibahas) dan cybersecurity tipis-tipis. Akan tetapi, pada praktiknya cukup banyak tools baru yang dipakai seperti Python untuk socket programming, Google Cloud, Wireshark, Cisco Packet Tracer, dan sebagainya.
+
+  Tugas-tugas dan materi kuliahnya disusun secara sistematis dengan fokus pada pemahaman teori (kalau pada jurusan sebelah, lebih fokus pada studi kasus), dengan buku dan slide sakti dari Jim Kurose (A Top Down Approach). Soal ujiannya cukup mencengangkan karena memang materi Jarkom ini luas. Oh iya, di mata kuliah ini kita bisa mendapat voucher Google Cloud sebanyak 50 USD yang lebih dari cukup untuk mengerjakan tugas dan ujian di matkul ini.
+
+  Menurut aku ini mata kuliah yang cukup sentral, khususnya bagi peminat DevSecOps maupun infrastruktur komputer.
 
 ### **Kasdad** (Kecerdasan Artifisial & Sains Data Dasar)
 
@@ -348,7 +361,12 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: Alin, SDA, Statprob
 
-  WIP
+  Mata kuliah Kasdad ini adalah gabungan dua mata kuliah pada kurikulum sebelumnya. Prasyaratnya cukup banyak sehingga mata kuliah ini jarang diambil di semester awal. Materi AI yang diberikan lebih ke high-level (pemahaman umum) sedangkan low-levelnya lebih banyak di kajian teori sains data (lebih banyak belajar rumus matematikanya). Kombinasi unik ini membuat para mahasiswanya tidak hanya mengerti dasar-dasar AI tapi juga bisa ngoding AI sekaligus dituntut paham asal usul rumus-rumus yang dipakai.
+
+  Kelas ini juga menurutku menjadi mata kuliah yang sentral bagi peminat AI. Setelah lulus kelas ini banyak yang bekerja di bidang data atau mengikuti kegiatan seperti Bangkit Machine Learning, jadi memang itulah tren saat ini ditulis. Soal-soal ujiannya sendiri tidak membahas kodingan (tapi ini bisa berubah ya) tapi lebih ke eksekusi langkah-langkah regresi, klasifikasi, atau clustering from scratch. Selain ujian, terdapat juga proyek akhir yang perlu dipresentasikan bahkan setelah UAS selesai. Jadi, mata kuliah ini bisa dibilang serius.
+
+  Sebagai catatan, pada praktiknya mahasiswa Fasilkom sangat erat hubungannya dengan Jupyter Notebook dan Python dengan librarynya seperti scikit-learn, NumPy, dan Pandas. Bisa dibilang matkul ini 50% teori 50% praktik (sama kuat).
+
 
 ### **Anum** (Analisis Numerik)
 
@@ -358,7 +376,9 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: Alin, Kalkulus 2
 
-  WIP
+  Analisis Numerik atau Anum adalah mata kuliah kajian matematika lainnya yang rupanya terkait erat dengan cara komputer menghitung rumus-rumus matematika. Komputer tidak menggunakan metode analisis seperti kita menerka-nerka faktor suatu persamaan atau turunan suatu fungsi, melainkan menggunakan metode yang disebut sebagai metode numerik. Nah, metode ini yang erat kaitannya dengan apa yang dibahas di mata kuliah ini.
+
+  Praktiknya sendiri menggunakan tools seperti GNU Octave (open-source seperti Matlab) dan LaTeX untuk menulis laporan. Terdapat juga PR yang lebih ke menyelesaikan persoalan matematis dengan cara numerik (seperti materi kalkulus jadinya). Materinya cukup padat dan ujiannya sendiri merupakan ujian yang terkenal sulit. Salah satu buku rujukannya adalah buatan dosen yang legendaris di Fasilkom. Mempelajari GNU Octave sendiri tidak sulit, tapi perlu penyesuaian.
 
 ### **Manbis** (Manajemen Bisnis)
 
@@ -368,7 +388,9 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: -
 
-  WIP
+  Mata kuliah Manbis adalah mata kuliah dasar di jurusan Sistem Informasi yang iseng kuambil dengan 2 orang teman seangkatan sebagai mata kuliah minat. Inti dari materi Manbis adalah, ya, gabungan manajemen (pasca UTS) dan bisnis (pra UTS). Menurutku ujiannya open-ended dan lumayan sulit dapat nilai memuaskan.
+
+  Materinya sendiri cukup ringan dan tidak njlimet tapi banyak dan padat sekali, jadi tetap perlu waktu untuk persiapan. Terdapat juga tugas akhir yang intinya adalah membuat proposal satu bisnis terdigitalisasi. Ide yang kelompokku buat adalah bimbel daring. Pengalaman meng-handle berbagai aspek bisnis seperti marketing, finansial, dan juga produk (software) berharga buatku.
 
 
 ## Semester 6-8:
