@@ -123,6 +123,8 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: DDP1
 
+  <img src="https://programmerhumor.io/wp-content/uploads/2022/12/programmerhumor-io-java-memes-backend-memes-9a563a8f973239d.png" align="middle" width="400px">
+
   Materi ini adalah lanjutan dari DDP1 tapi punya fokus yang berbeda dari DDP1. Kali ini kita akan belajar tentang pemrograman berbasis objek (OOP), termasuk 4 pilar OOP dan penerapannya seperti abstract class dan interface. Bahasa yang dipakai adalah Java.
 
   Tugas-tugasnya serupa dengan DDP1 dan kesulitannya tidak jauh berbeda, tapi waktu aku ambil, ada tugas membuat UML Class Diagram yang belum diajarkan. Artinya perlu eksplorasi sendiri (nantinya banyak tugas yang seperti ini juga). Pada setiap sesi lab ada asisten pengajar yang membantu juga.
@@ -136,6 +138,8 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   **SKS**: 4
 
   **Prasyarat**: PSD
+
+  <img src="https://safereddit.com/img/pati263c0opb1.jpg" align="middle" width="400px">
 
   Materi ini adalah lanjutan PSD dengan fokus pada komputer berjenis RISC (Apple M1, PlayStation, HP Android) dan CISC (Laptop Intel atau AMD). Kita akan belajar tentang perbedaan arsitektur x86 dngan AMD dan juga penerapannnya seperti MIPS dan AVR. 
   
@@ -153,7 +157,6 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   **Prasyarat**: Kalkulus 1
 
   <img src="https://willierushrush.github.io/images/mat203/sphere.jpg" align="middle" width="400px">
-
 
   Kalkulus 2 adalah lanjutan kalkulus 1 dengan variasi seperti integral lipat, koordinat polar, koordinat bola, dan endingnya adalah persamaan diferensial. Tugas-tugasnya mirip dengan kalkulus 1 (lebih banyak menjawab soal esai) tapi waktu aku ambil ada asistensi atau kuis (lupa antara dua itu) yang perlu diambil akhir pekan.
 
@@ -180,6 +183,8 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   **SKS**: 3
 
   **Prasyarat**: Matdis 1, Kalkulus 1
+
+  <img src="https://libreddit.northboot.xyz/img/e6jscrosu7291.jpg" align="middle" width="400px">
 
   Ini adalah salah satu mata kuliah yang aku ambil lebih cepat dari rekomendasi (nyodok). Isinya seputar teori-teori statistika dan peluang secara umum. Nantinya ini sangat banyak terpakai di kuliah sains data.
 
