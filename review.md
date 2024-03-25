@@ -56,7 +56,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: -
 
-  ![Meme Python](https://qph.cf2.quoracdn.net/main-qimg-4472b6229cb75bf66ab531f3ebd4f975-lq)
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-4472b6229cb75bf66ab531f3ebd4f975-lq" align="middle" width="400px">
 
   Mata kuliah ini mengenalkan konsep dasar dari pemrograman, yaitu membuat komputer bekerja sesuai kemauan kita sebagai pemrogram. Konsep-konsep yang dimaksud adalah yang high level seperti tipe data, struktur data, fungsi, dan kelas. Selain itu diajarkan juga cara membuat program berbasis command line dan GUI (tampilan grafis). Aku suka bagaimana kelas ini bisa sangat suportif bagi mahasiswa baru yang bahkan belum pernah memrogram sama sekali. Bahasa pemrograman yang digunakan adalah Python, jadi sekalian belajar Python. Tapi fokus utamanya tetap di konsep.
 
@@ -74,7 +74,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: -
 
-  ![Meme Logic Gate](https://libreddit.northboot.xyz/img/7bgm3ixhr6j11.png)
+  <img src="https://libreddit.northboot.xyz/img/7bgm3ixhr6j11.png" align="middle" width="400px">
 
   Mata kuliah ini mengenalkan sistem digital yang menjadi gambaran dari cara kerja komputer. Cakupannya mulai dari bilangan biner, gerbang logika, sampai membuat memori RAM. Secara fisik, gerbang logika itu dibuat dari transistor dalam CPU (prosesor) yang kini bisa dibuat berukuran sangat kecil (bisa sampai sepersejuta centimeter)! Jadi, komputer itu tersusun dari banyak sekali gerbang logika.
 
@@ -90,7 +90,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: -
 
-  ![Meme kalkulus](https://images3.memedroid.com/images/UPLOADED334/5e3f2c6bc11cb.jpeg)
+  <img src="https://images3.memedroid.com/images/UPLOADED334/5e3f2c6bc11cb.jpeg" align="middle" width="400px">
 
   Kalau kedua mata kuliah sebelumnya bisa jadi cukup baru buat mahasiswa, mata kuliah ini rasanya seperti lanjutan materi Matematika SMA tentang limit, turunan, dan integral. Tugasnya tidak sebanyak mata kuliah pemrograman tapi hampir semuanya berupa esai. Referensi dari mata kuliah ini tidak jauh-jauh dari buku Purcell, jadi aku membelinya (walaupun tidak banyak dibaca).
 
@@ -104,7 +104,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: -
 
-  ![Meme Matdis](https://pbs.twimg.com/media/F9d7Ut3W4AA9czr.png)
+  <img src="https://pbs.twimg.com/media/F9d7Ut3W4AA9czr.png" align="middle" width="400px">
 
   Kuliah MatDis 1 berbeda dengan Kalkulus dan rasanya bukan lanjutan materi SMA, karena banyak sekali materi baru. Isinya tentang bilangan, fungsi, dan kombinatorika.
 
@@ -152,7 +152,8 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: Kalkulus 1
 
-  ![Meme Kalkulus 2](https://willierushrush.github.io/images/mat203/sphere.jpg)
+  <img src="https://willierushrush.github.io/images/mat203/sphere.jpg" align="middle" width="400px">
+
 
   Kalkulus 2 adalah lanjutan kalkulus 1 dengan variasi seperti integral lipat, koordinat polar, koordinat bola, dan endingnya adalah persamaan diferensial. Tugas-tugasnya mirip dengan kalkulus 1 (lebih banyak menjawab soal esai) tapi waktu aku ambil ada asistensi atau kuis (lupa antara dua itu) yang perlu diambil akhir pekan.
 
@@ -166,7 +167,7 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: -
 
-  ![Meme Graph](https://i.pinimg.com/236x/7c/1a/fb/7c1afbb8af497d35525b93dd01b6434a.jpg)
+  <img src="https://i.pinimg.com/236x/7c/1a/fb/7c1afbb8af497d35525b93dd01b6434a.jpg" align="middle" width="400px">
 
   Mata kuliah ini menurutku bukan lanjutan materi Matdis 1 (banyak materi baru), tapi masih seputar matematika diskret. Topik yang dibawakan sedikit lebih berat (misalnya tentang generating function) dari Matdis 1, tapi buatku masih lebih mudah daripada Kalkulus. Tantangannya cukup serupa, yaitu variasi soal yang beragam.
 
