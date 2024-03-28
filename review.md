@@ -203,6 +203,8 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: DDP1
 
+  <img src="https://media.licdn.com/dms/image/C4D22AQFRZwY28hVxtg/feedshare-shrink_800/0/1673789791664?e=2147483647&v=beta&t=LmPv4kFgOEFkJzmFmeESWKhkVFW2sAmPlBh4_jLwiqo" align="middle" width="400px">
+
   Matkul PBP ini dulunya hanya mencakup web, tapi sekarang berkembang menjadi multi platform. Selain web pages atau mobile pages, diajarkan juga sekilas tentang web services. Jadi mata kuliahnya mayoritas ngoding dan tiap minggu membuat web atau mobile app dengan kriteria tertentu.
 
   Terdapat tugas kelompok pengganti UTS dan UAS. Aku suka mempelajari framework Django (Python) yang praktis dan cukup siap pakai yang dipakai di kuliah ini. Menurutku ini teknologi yang bagus untuk membuat Proof of Concept dari suatu ide layanan atau aplikasi digital. Aku kurang begitu menekuni mobile appnya, tapi rupanya framework Flutter (Dart) yang dipakai bisa untuk multi-platform dan lumayan powerful.
@@ -216,6 +218,8 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   **SKS**: 3
 
   **Prasyarat**: POK
+
+  <img src="https://ih1.redbubble.net/image.2745923038.9633/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg" align="middle" width="400px">
 
   Ini adalah salah satu mata kuliah yang aku minati. Sebetulnya kegiatan kelas OS ini cukup sederhana dan kebanyakan berupa mengikuti instruksi, tapi dari hal-hal kecil yang kulakukan, aku bisa lebih paham bagaimana sistem operasi dirancang dan bekerja. OS yang digunakan selama matkul ini adalah GNU/Linux, lebih tepatnya Debian GNU/Linux.
 
@@ -231,6 +235,8 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: DDP1
 
+  <img src="https://safereddit.com/img/qxgj6hbb4r461.png" align="middle" width="400px">
+
   SDA ini mata kuliah yang bisa jadi sangat familiar bagi yang sudah terbiasa lomba atau wawancara magang, tapi bisa jadi sangat baru bagi mahasiswa lainnya. Tidak heran jika tugas-tugasnya memiliki kesulitan yang tinggi. Rasanya tugas-tugas di matkul ini tidak dicopy-paste begitu saja dari buku teks atau internet, melainkan betul-betul dirancang oleh tim pengajar.
 
   Di mata kuliah ini kita akan belajar struktur data yang umum (Array, LinkedList) maupun yang cukup canggih seperti AVL tree dan Binary Heap. Bahasa yang digunakan adalah Java, mengikuti DDP2. Tapi ada kelas yang membebaskan penggunaan bahasa. Tugas-tugas diperiksa secara otomatis menggunakan online judge dengan test case. Uniknya, para peserta juga membuat online judge dan test case tersendiri untuk membantu peserta lainnya dalam menyelesaikan tugas secara jujur. Tentu saja ketika online judge ini mengalami kendala atau downtime, ini bisa jadi merepotkan.
@@ -245,6 +251,8 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
 
   **Prasyarat**: -
 
+  <img src="https://libreddit.northboot.xyz/preview/pre/linear-algebra-1-in-one-meme-v0-czs6n6lqrp2a1.png?width=640&crop=smart&auto=webp&s=a02ed8336aeb8df00fd182562a7646d7163f9b6f" align="middle" width="400px">
+
   Matkul Alin ini adalah matkul matematika selanjutnya. Aku mengira ini akan membosankan, tapi rupanya ini sangat banyak dipakai dalam pengolahan citra maupun informasi. Jadi ini memang mata kuliah yang berhubungan erat dengan ilmu komputer. Pelajarannya seputar menyelesaikan sistem persamaan garis lurus, eigenvalue dan eigenvector, serta operasi matematika pada ruang vektor.
 
   Sebetulnya ini cukup berbeda dengan Matdis atau Kalkulus karena di Alin ini jarang sekali ada soal hitungan! Kebanyakan soalnya adalah seputar analisis atau membedakan istilah-istilah dalam aljabar linear. Oleh karena itu, persiapan yang matang sangat dibutuhkan untuk menyelesaikan ujian dengan nilai yang memuaskan (ini yang tidak kulakukan). Selain itu, terdapat juga fun quiz yang dilakukan pada hari senja, jadi sangat rawan terlewat jika lengah.
@@ -258,6 +266,9 @@ Tujuan menulis ulasan ini adalah untuk berbagi sudut pandangku sebagai mahasiswa
   **SKS**: 3
 
   **Prasyarat**: -
+
+  <img src="https://64.media.tumblr.com/3e9a793a655a3088977cac3efb87cc84/ed79e25c4f3ad38c-af/s1280x1920/d6c4cfdae156071334ba645e66954bc2bc4c46e9.jpg" align="middle" width="400px">
+
 
   Mata kuliah ini adalah semacam eksperimen yang menurut aku menarik karena diletakkan di semester awal. Ini belajar tentang cara menulis terutama untuk karya ilmiah. Selain itu, peserta juga diperkenalkan dengan cara-cara dan jenis-jenis penelitian. Secara garis besar ini menarik buatku karena aku berkesempatan mempelajari bagaimana keseharian para peneliti termasuk dosen di kampusku.
 
