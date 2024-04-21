@@ -9,7 +9,7 @@ This article is WIP. Some of textbooks I use and recommend. Most of them are use
 
 - Operating System: The dinosaur book (Operating System Concepts by Silberschatz et al). They have free slides in os-book.com
 
-- Computer Networks: Computer Networking A Top-Down Approach by Kurose & Ross. TCP/IP Layer-by-layer explanation. They also have free slides at https://gaia.cs.umass.edu/kurose_ross/ppt.php
+- Computer Networks: Computer Networking A Top-Down Approach by Kurose & Ross. TCP/IP Layer-by-layer explanation. They also have free slides and videos at https://gaia.cs.umass.edu/kurose_ross/ppt.php
 
 - Site Reliability Engineering: Definitely Google's https://sre.google/books.
 
